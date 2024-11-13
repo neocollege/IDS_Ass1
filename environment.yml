@@ -1,0 +1,21 @@
+name: env-ids
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - pandas>=2.0
+  - jupyter
+  - ipykernel
+  - numpy
+  - scipy
+  - scikit-learn
+  - graphviz
+  - matplotlib
+  - seaborn
+  - plotly
+  - networkx
+  - pip
+  - pip:
+      - pm4py==2.7.*
+      - p_decision_tree
