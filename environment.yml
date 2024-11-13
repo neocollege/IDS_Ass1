@@ -1,4 +1,4 @@
-name: env-ids
+name: env-ids-ass1
 channels:
   - conda-forge
   - nodefaults
